@@ -4,3 +4,7 @@
 function sayHi(){
     alert("Hi");
 }
+
+function sayGit(){
+    alert("git");
+}
